@@ -1,0 +1,11 @@
+names==0.3.0
+pandas==1.4.2
+pytz==2021.3
+Requests==2.30.0
+streamlit==1.21.0
+streamlit_autorefresh==0.0.1
+emails==0.6
+ssl==1.16
+
+
+
