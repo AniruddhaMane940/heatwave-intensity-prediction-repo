@@ -7,7 +7,7 @@
 - [Machine Learning Models](#machine-learning-models)
 - [Installation](#installation)
 
-# Introduction
+## Introduction
 Heatwave Wizard is a web application that uses machine learning models to predict heatwave occurrences based on historical data and climate projections. It allows users to explore different scenarios of heatwave frequency, intensity and duration for various regions of the world.
 
 ## Motivation
@@ -39,14 +39,14 @@ After training and testing these models, performances of all the models were com
 
 To run Heatwave Wizard locally, you need to have Python 3.7 or higher installed on your machine. You also need to install the following packages:
 
-names==0.3.0
-pandas==1.4.2
-pytz==2021.3
-Requests==2.30.0
-streamlit==1.21.0
-streamlit_autorefresh==0.0.1
-emails==0.6
-ssl==1.16
+- names==0.3.0
+- pandas==1.4.2
+- pytz==2021.3
+- Requests==2.30.0
+- streamlit==1.21.0
+- streamlit_autorefresh==0.0.1
+- emails==0.6
+- ssl==1.16
 
 You can install these packages using pip or conda.
 
