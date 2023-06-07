@@ -21,7 +21,7 @@ import re
 st.set_page_config(page_title="HeatIndex Prediction", page_icon="♨️", layout="wide", initial_sidebar_state="expanded", menu_items=None)
 
 # Title
-st.title("HeatIndex Prediction")
+st.title("Heatwave Wizard")
 
 # Contents
 st.subheader("Contents")
