@@ -6,6 +6,7 @@
 - [Features](#features)
 - [Machine Learning Models](#machine-learning-models)
 - [Installation](#installation)
+- [Web Application](#web-application)
 
 ## Introduction
 Heatwave Wizard is a web application that uses machine learning models to predict heatwave occurrences based on historical data and climate projections. It allows users to explore different scenarios of heatwave frequency, intensity and duration for various regions of the world.
