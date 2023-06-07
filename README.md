@@ -56,5 +56,7 @@ To launch Heatwave Wizard, navigate to command prompt for the project directory 
 streamlit run heatwave.py
 
 ```
-
+## Web Application 
+Here you can interact with live web application 
+https://heatwavewizard.streamlit.app/
 
