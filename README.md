@@ -1,6 +1,6 @@
 # Heatwave Wizard
 
-[HeatwaveWizard_Logo](https://github.com/AniruddhaMane940/heatwave-intensity-prediction-repo/blob/main/Heatwavewizard_logo.png?raw=true)
+[HeatwaveWizard_Logo](Heatwavewizard_logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
