@@ -1,7 +1,6 @@
 # Heatwave Wizard
 
-![Uploading lushill-style-one-male-cartoon-character-protecting-earth-with-a-giant-stylish-umbrella-from-blazin-460999085.png…]()
-
+[HeatwaveWizard_Logo](https://github.com/[AniruddhaMane940]/[heatwave-intensity-prediction-repo]/blob/[main]/Heatwavewizard_logo.png?raw=true)
 
 ## Table of Contents
 - [Introduction](#introduction)
