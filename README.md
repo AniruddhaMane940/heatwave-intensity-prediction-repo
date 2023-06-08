@@ -1,6 +1,6 @@
 # Heatwave Wizard
 
-![HeatwaveWizard_Logo](Heatwavewizard_logo.png)
+<img src="Heatwavewizard_logo.png" width="200" height="200">  
 
 ## Table of Contents
 - [Introduction](#introduction)
