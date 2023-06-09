@@ -9,6 +9,7 @@
 - [Machine Learning Models](#machine-learning-models)
 - [Installation](#installation)
 - [Web Application](#web-application)
+- [Tableau Dashboard](#tableau-dashboard)
 
 ## Introduction
 Heatwave Wizard is a web application that uses machine learning models to predict heatwave occurrences based on historical data and climate projections. It allows users to explore different scenarios of heatwave frequency, intensity and duration for various regions of the world.
@@ -63,3 +64,6 @@ streamlit run heatwave.py
 Here you can interact with live web application 
 https://heatwavewizard.streamlit.app/
 
+## Tableau Dashboard
+Here you can visit live dashboard published on tableau public which gives insights about data used for this project
+https://public.tableau.com/views/Heatwave_Intensity_Dashboard/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
