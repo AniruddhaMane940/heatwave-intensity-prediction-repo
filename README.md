@@ -66,4 +66,4 @@ https://heatwavewizard.streamlit.app/
 
 ## Tableau Dashboard
 Here you can visit live dashboard published on tableau public which gives insights about data used for this project
-https://public.tableau.com/views/Heatwave_Intensity_Dashboard/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Heatwave_Intensity_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
